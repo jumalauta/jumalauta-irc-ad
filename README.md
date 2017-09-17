@@ -1,0 +1,2 @@
+# jumalauta-irc-ad
+#jumalauta
